@@ -1,0 +1,23 @@
+body {
+  background-color: antiquewhite; }
+
+blockquote {
+  width: 90%;
+  text-align: center;
+  height: 20vh;
+  padding-top: 16vh;
+  padding-bottom: 3vh;
+  margin: auto;
+  margin-top: 30vh;
+  position: relative;
+  background-color: black;
+  color: white;
+  font-size: xx-large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
+
+p {
+  float: right;
+  font-size: large;
+  margin-top: 8vh; }
+
+/*# sourceMappingURL=style.css.map */
