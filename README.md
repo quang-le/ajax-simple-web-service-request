@@ -7,7 +7,7 @@ Be able to make an AJAX request
 
 2. Exercise
 Make an AJAX request to display a random quote.
-[Full intsructions](https://github.com/becodeorg/lovelace-2/blob/master/Parcours/05-JavaScript/js-exercises-ajax-webservice/readme.md)
+[Full instructions](https://github.com/becodeorg/lovelace-2/blob/master/Parcours/05-JavaScript/js-exercises-ajax-webservice/readme.md)
 
 3. Outcomes
 I created a template for AJAX request using Promises in vanilla Javascript (no jQuery).
